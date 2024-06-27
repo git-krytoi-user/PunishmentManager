@@ -1,0 +1,10 @@
+name: PunishmentManager
+version: '1.0-SNAPSHOT'
+main: org.example.dev.r1nex.punishmentmanager.PunishmentManager
+depend: [ LuckPerms ]
+api-version: '1.16'
+commands:
+  ban: {}
+  tempban: {}
+  unban: {}
+  banip: {}
